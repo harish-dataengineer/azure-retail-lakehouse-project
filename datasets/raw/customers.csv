@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,city,state,country,registration_date
+1001,John,Smith,john.smith@email.com,9876543210,M,1992-05-10,New York,NY,USA,2024-01-01
+1002,Emma,Johnson,emma@email.com,9876543211,F,1995-08-14,Chicago,IL,USA,2024-01-03
+1003,Liam,Williams,liam@email.com,9876543212,M,1991-03-20,Dallas,TX,USA,2024-01-04
+1004,Olivia,Brown,olivia@email.com,9876543213,F,1997-09-01,Seattle,WA,USA,2024-01-06
+1005,Noah,Jones,noah@email.com,9876543214,M,1990-11-11,Boston,MA,USA,2024-01-08
+1006,Ava,Miller,ava@email.com,9876543215,F,1993-06-12,Miami,FL,USA,2024-01-10
+1007,James,Davis,james@email.com,9876543216,M,1996-01-25,Denver,CO,USA,2024-01-12
+1008,Sophia,Garcia,sophia@email.com,9876543217,F,1998-02-16,Phoenix,AZ,USA,2024-01-14
+1009,Benjamin,Martinez,ben@email.com,9876543218,M,1994-12-20,San Jose,CA,USA,2024-01-16
+1010,Isabella,Anderson,isabella@email.com,9876543219,F,1999-07-22,Atlanta,GA,USA,2024-01-18

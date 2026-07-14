@@ -42,9 +42,14 @@ Power BI
 
 ---
 
-## Project Status
+## Current Progress
 
-🚧 Under Development
+- ✅ Repository Setup
+- ✅ Enterprise Folder Structure
+- ✅ Business Documentation
+- ✅ Customer Dataset
+- ✅ SQL DDL
+- ✅ First PySpark Ingestion
 
 ---
 
