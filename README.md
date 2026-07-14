@@ -51,6 +51,12 @@ Power BI
 - ✅ SQL DDL
 - ✅ First PySpark Ingestion
 
+## Current Modules
+
+✅ Customer Master
+
+✅ Product Master
+
 ---
 
 ## Author

@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,unit_price,currency,stock_quantity,supplier_id,is_active,created_date
+P1001,Apple iPhone 16,Mobile,Apple,999,USD,250,S1001,Y,2024-01-01
+P1002,Samsung Galaxy S25,Mobile,Samsung,899,USD,300,S1002,Y,2024-01-01
+P1003,Dell XPS 15,Laptop,Dell,1850,USD,120,S1003,Y,2024-01-01
+P1004,HP EliteBook,Laptop,HP,1499,USD,140,S1003,Y,2024-01-02
+P1005,Sony WH1000XM6,Headphones,Sony,399,USD,500,S1004,Y,2024-01-03
+P1006,iPad Air,Tablet,Apple,699,USD,200,S1001,Y,2024-01-04
+P1007,Apple Watch,Smart Watch,Apple,499,USD,350,S1001,Y,2024-01-05
+P1008,LG OLED TV,Television,LG,1799,USD,90,S1005,Y,2024-01-06
+P1009,Logitech MX Keys,Keyboard,Logitech,129,USD,600,S1006,Y,2024-01-07
+P1010,Logitech MX Master 3S,Mouse,Logitech,99,USD,650,S1006,Y,2024-01-08
