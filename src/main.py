@@ -1,4 +1,4 @@
-from pyspark.framework.generic_ingestion import ingest
+from src.framework.generic_ingestion import ingest
 
 
 if __name__ == "__main__":
