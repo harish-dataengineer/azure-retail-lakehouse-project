@@ -1,0 +1,46 @@
+{
+  "tables": [
+    {
+      "table_name": "customers",
+      "file_name": "customers.csv",
+      "primary_key": "customer_id",
+      "delimiter": ",",
+      "header": true
+    },
+    {
+      "table_name": "products",
+      "file_name": "products.csv",
+      "primary_key": "product_id",
+      "delimiter": ",",
+      "header": true
+    },
+    {
+      "table_name": "orders",
+      "file_name": "orders.csv",
+      "primary_key": "order_id",
+      "delimiter": ",",
+      "header": true
+    },
+    {
+      "table_name": "stores",
+      "file_name": "stores.csv",
+      "primary_key": "store_id",
+      "delimiter": ",",
+      "header": true
+    },
+    {
+      "table_name": "employees",
+      "file_name": "employees.csv",
+      "primary_key": "employee_id",
+      "delimiter": ",",
+      "header": true
+    },
+    {
+      "table_name": "suppliers",
+      "file_name": "suppliers.csv",
+      "primary_key": "supplier_id",
+      "delimiter": ",",
+      "header": true
+    }
+  ]
+}

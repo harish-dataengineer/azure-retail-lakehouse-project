@@ -57,6 +57,15 @@ Power BI
 
 ✅ Product Master
 
+## Framework Features
+
+- Metadata Driven Architecture
+- Generic Ingestion Framework
+- Reusable Spark Session
+- Centralized Logging
+- JSON Configuration
+- Modular Code Structure
+
 ---
 
 ## Author
